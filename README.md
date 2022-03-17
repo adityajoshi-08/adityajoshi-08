@@ -62,9 +62,3 @@
 <a href = "https://www.youtube.com/channel/UCGXYTwm7I_iT3mOaIY13KhQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=adityajoshi-08">
-</a>
-<a href="https://www.youtube.com/channel/UCGXYTwm7I_iT3mOaIY13KhQ"><img src="https://img.shields.io/github/followers/adityajoshi-08?label=Followers&style=social" alt="GitHub Badge"></a>
