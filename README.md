@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQF1seNIJZ8DMQ/profile-displaybackgroundimage-shrink_350_1400/0/1642251064344?e=1652918400&v=beta&t=3gx5XfDA_EU15xjyyp0N9QicV__gadeL0g50PGMO1Pk" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/adityajoshi-08/adityajoshi-08/blob/main/assets/Green%20Christmas%20Holly%20Twitter%20Header.png" height="175px"/></a>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya </h1>
 <h3 align="center">I'm a student from India.</h3>
