@@ -57,8 +57,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/adityajoshi304/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AdityaJoshi__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/adityaexe/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/aditya__exe"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UCGXYTwm7I_iT3mOaIY13KhQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
