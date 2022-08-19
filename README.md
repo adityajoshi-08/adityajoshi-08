@@ -6,15 +6,15 @@
 <!-- About Me -->
 <h2 align=center>🙋‍♂️ About Me</h2>
 
-<p align=center>🌱 I’m currently learning Data Structures and Algorithms.</p>
+<p align=center>🌱 I’m currently learning <b>Data Structures and Algorithms</b>.</p>
 
 <p align=center>👯 I’m looking to collaborate and learn together</p>
 
-<p align=center>🎨 I have some sound knowledge of UI/UX design</p>
+<p align=center>🎨 I have some sound knowledge of <b>UI/UX design</b></p>
 
-<p align=center>👨‍💻 All of my projects are available at <a href="https://github.com/adityajoshi-08"> My GitHub</a></p>
+<p align=center>👨‍💻 All of my projects are available at <a href="https://github.com/adityajoshi-08"> <b>My GitHub</b></a></p>
 
-<p align=center>📫 <a href="mailto:adityajoshi304@gmail.com">My Email</a> (adityajoshi304@gmail.com)</p>
+<p align=center>📫 <a href="mailto:adityajoshi304@gmail.com"><b>My Email</b></a> (adityajoshi304@gmail.com)</p>
 
 <p align=center>⚡ Fun fact I play guitar and also play basketball.</p>
 
@@ -44,10 +44,10 @@
 
 <h2 align=center>📊 My Github Stats</h2>
 
-  <br/>
-    <a href="https://github.com/adityajoshi-08"><img alt="Aditya Joshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityajoshi-08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/adityajoshi-08"><img alt="Aditya Joshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajoshi-08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br>
+  <a href="https://github.com/adityajoshi-08" align=center><img alt="Aditya Joshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityajoshi-08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/adityajoshi-08" align=center><img alt="Aditya Joshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajoshi-08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
