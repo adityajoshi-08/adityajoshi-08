@@ -1,7 +1,7 @@
 # Hi, I'm Aditya 👋  
 
 **Full-stack Developer | Backend Infra | Web3 Curious**  
-[Email](mailto:adityajoshi304@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adityaexe) • [Twitter](https://twitter.com/aditya__exe) • [Medium](https://medium.com/@adityaexe)
+[Email](mailto:adityajoshi304@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adityaexe) • [X](https://x.com/aditya__exe) • [Medium](https://medium.com/@adityaexe)
 
 ---
 
