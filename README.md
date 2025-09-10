@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Go, TypeScript, JavaScript, Solidity, Python  
 - **Frontend:** Next.js, React, Tailwind, Shadcn, TanStack  
-- **Backend:** GoFiber, Express.js, FastAPI, WebSockets  
+- **Backend:** GoFiber, Express.js, WebSockets  
 - **Infra:** Docker, GCP (Cloud Run, GCE, Cloud SQL), Linux  
 - **Data/Cache:** MongoDB, Postgres, Redis  
 
