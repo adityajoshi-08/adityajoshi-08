@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋  
 
-**Full-stack Developer | Backend Infra | Web3 Curious**  
+**Full-stack Developer | Backend Infra **  
 [Email](mailto:adityajoshi304@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adityaexe) • [X](https://x.com/aditya__exe) • [Medium](https://medium.com/@adityaexe)
 
 ---
@@ -28,7 +28,7 @@
 - **Languages:** Go, TypeScript, JavaScript, Solidity, Python  
 - **Frontend:** Next.js, React, Tailwind, Shadcn, TanStack  
 - **Backend:** GoFiber, Express.js, WebSockets  
-- **Infra:** Docker, GCP (Cloud Run, GCE, Cloud SQL), Linux  
+- **Infra:** Docker, GCP (Cloud Run, GCE, Cloud SQL), Linux, AWS, K8S
 - **Data/Cache:** MongoDB, Postgres, Redis  
 
 ---
@@ -39,4 +39,4 @@
 
 ---
 
-Music & Mountains when not coding.  
+Listening to [The Local Train](https://music.youtube.com/channel/UCTzjnbxgPIHYD0_qDBvNOSQ) or Chilling in Mountains when not coding.  
