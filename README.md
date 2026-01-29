@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋  
 
-**Full-stack Developer | Backend Infra **  
+**Full-stack Developer | Backend Infra**  
 [Email](mailto:adityajoshi304@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adityaexe) • [X](https://x.com/aditya__exe) • [Medium](https://medium.com/@adityaexe)
 
 ---
